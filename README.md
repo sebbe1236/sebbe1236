@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Currently a frontend student learning the ropes:).
+Currently a frontend development:).
 
