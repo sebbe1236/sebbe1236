@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Currently a frontend development:).
+Workings towards being a proficient programmer:).
 
